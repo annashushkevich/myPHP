@@ -20,9 +20,9 @@ class Test
 }
 
 $arr = array(
-    array(1, 4, 7),
-    array(2, 5, 8),
-    array(3, 6, 9)
+    array(1, 0, 5),
+    array(-2, 7, 3),
+    array(3, 4, -3)
 );
 
 $test = new Test;
