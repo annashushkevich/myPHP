@@ -3,6 +3,7 @@
 //ПИд 21. Шушкевич
 
 function func($s){
+    echo "$s </br>";
     switch ($s) {
         case 'Шушкевич': echo "Это фамилия!";
     break;
